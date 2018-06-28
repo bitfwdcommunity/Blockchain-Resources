@@ -59,3 +59,46 @@ Podcasts
 People:
 - [Tuur Demeester](https://medium.com/@tuurdemeester) - Economist & investor, Editor in Chief at Adamant Research
 - [Linda Xie](https://medium.com/@linda.xie) - Co Founder at ScalarCapital, Ex Product Manager at Coinbase and Advisor  at 0xProject.
+
+# Trading
+Exchanges
+Coinbase 
+Binance
+Bittrex
+GDAX 
+Poloneix
+Kraken
+Bitfinex
+Cryptopia
+EtherDelta
+BTCMarkets
+Indepenent Reserve
+
+Hardware Wallets
+Trezor - Bulletproof Cryptocurrency Hardware Wallet  
+Ledger Wallet - Smart security Hardware Wallet for your cryptocurrencies
+
+Portfolio apps
+Blockfolio - Popular Bitcoin and altcoin portfolio manager
+Delta - Another popular Bitcoin and altcoin portfolio manager
+CoinTracker - Personal Crypto portfolio & tax manager
+Altpocket - Tool to track your cryptocurrency investments
+
+# Tech / Development
+CryptoZombies - Learn to code Ethereum DApps by building your own games
+How to code your own cryptokitties-style game on Ethereum - Who doesn't like kitties!
+Official Solidity documentation 
+CoinMarketCap API - API document to Coin Market Cap’ platform
+ 
+# Token Sales / ICO 
+What is an ICO - A quick intro to what an Initial Coin Offering is.
+ICO Basics - More in depth guide to understand the mechanics of an ICO 
+Cryptoasset Valuations - An amazing deep dive understanding on how Cryptoassets are valued
+The Rise of Token Sales - In depth journey analysis of how Token Sales have developed.
+
+# Useful tools
+QR Code Generator — With this free tool you can instantly generate QR code for your Bitcoin/Litecoin/Ethereum/Dogecoin address.
+Block Explorer — Discover the Bitcoin blockchain blocks online. Includes fees and miners information.
+EtherScan — Block Explorer and Analytics Platform for Ethereum.
+CoinMarketCap - The one stop platform where all cryptocurrency trading prices are aggregated.
+OnChainFX - Similar to CoinMarketCap, platform for all pricing and volume data for cryptocurrencies
