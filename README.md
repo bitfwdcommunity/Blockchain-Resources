@@ -28,3 +28,34 @@ Everything you need to read / watch to get started to understand blockchain and 
 - [A beginner's guide to get started with Cryptocurrencies](https://hackernoon.com/a-beginners-guide-to-getting-started-with-cryptocurrencies-76027bebb1b1) - Kickstarter guide of how  to start investing in crypto 
 - [Banking on Bitcoin](https://www.netflix.com/title/80154500) is a great documentary starter as well! 
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) - The genesis of what started the whole crypto revolution. A must read to understand Satoshi Nakamoto’s vision.
+
+# Media
+Useful websites:
+- [Coindesk](https://www.coindesk.com/) - Leading news site all things bitcoin and cryptocurrencies. Founded in 2013.
+- [CoinTelegraph](https://cointelegraph.com/) - Another popular news outlook for all things crypto. Founded in 2013.
+- [Bitcoin Magazine](https://bitcoinmagazine.com/) - One of the original news and print magazine publishers specializing in Bitcoin and digital currencies. Founded in 2012.
+- [Cryptominded](https://cryptominded.com/) - A curated directory of the best cryptocurrency resources.
+
+Blogs / Medium Publications:
+- [Hackernoon](https://hackernoon.com/) - Great publication with all things technology and crypto related with lots of strong viewpoints on where the technology is going
+- [Decentralise today](https://decentralize.today/) - All things decentralisation
+- [What Bitcoin Did](https://bitcointechtalk.com/) - Blogging stories of accidental Bitcoin and Cryptocurrency investor, miner, blogger and podcaster.
+- [Bitcoin Tech Talk](https://bitcointechtalk.com/) - All about Bitcoin Development
+
+Telegram Channels:
+- [Upcoming ICOs](https://t.me/UpcomingICOs) - Latest news on which companies are launching ICO crowdsales 
+- [ICO Countdown.com](https://telegram.me/icocountdown) - Countdown channel for upcoming ICO’s
+
+Forums:
+- [Bitcointalk](https://bitcointalk.org/) - One of the most popular and oldest forums with discussions about all things bitcoin and altcoin related.
+- [Reddit](https://www.reddit.com/) (Search any subreddit about cryptocurrencies / Blockchain and you’ll be there!)
+
+Podcasts
+- [Unchained by Laura Shin](http://unchainedpodcast.co/) - . Laura Shin talks with industry leaders to discuss how the blockchain and cryptocurrency will open up new opportunities for society,
+- [Epicenter](https://epicenter.tv/) - Weekly podcast with the most interesting people in the industry for in-depth discussions about their projects, ideas and stories
+- [Bitcoin Knowledge Podcast](http://www.bitcoin.kn/) by Trace Mayer - Interviews with top people in Bitcoin, blockchain and fintech
+- [Coin Mastery by Carter Thomas](https://itunes.apple.com/us/podcast/coin-mastery-building-your-cryptocurrency-empire/id1251624136?mt=2) - A place for anyone interested in profiting from the digital cryptocurrency world 
+
+People:
+- [Tuur Demeester](https://medium.com/@tuurdemeester) - Economist & investor, Editor in Chief at Adamant Research
+- [Linda Xie](https://medium.com/@linda.xie) - Co Founder at ScalarCapital, Ex Product Manager at Coinbase and Advisor  at 0xProject.
