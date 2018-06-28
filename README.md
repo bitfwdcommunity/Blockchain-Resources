@@ -27,4 +27,4 @@ Everything you need to read / watch to get started to understand blockchain and 
 - Understanding Ethereum - A complete guide to get you up to date with Ethereum and how it works. 
 - A beginner's guide to get started with Cryptocurrencies - Kickstarter guide of how  to start investing in crypto 
 - If you have Netflix, Banking on Bitcoin is a great documentary starter as well! 
-- [Bitcoin Whitepaper - The genesis of what started the whole crypto revolution. A must read to understand Satoshi Nakamoto’s vision.](https://bitcoin.org/bitcoin.pdf)
+- [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) - The genesis of what started the whole crypto revolution. A must read to understand Satoshi Nakamoto’s vision.
