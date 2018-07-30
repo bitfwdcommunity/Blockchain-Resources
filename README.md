@@ -19,7 +19,6 @@ Warning: Once you go down the Blockchain rabbit hole, you will never go back
 
 # Beginners Guide
 Everything you need to read / watch to get started to understand blockchain and cryptocurrencies. 
-
 - [How does a blockchain work](https://www.youtube.com/watch?v=SSo_EIwHSd4) - Simply Explained - A quick Youtube video to explain the concepts of a blockchain 
 - [Explain Bitcoin like I’m Five](https://medium.freecodecamp.org/explain-bitcoin-like-im-five-73b4257ac833?source=search_post---------5&gi=bd24c3d5a9b3) - A great medium post explaining how Bitcoin operates in a simple and digestible fashion
 - [Understanding Ethereum](https://hackernoon.com/understanding-ethereum-a-complete-guide-6f32ea8f5888) - A complete guide to get you up to date with Ethereum and how it works. 
@@ -59,44 +58,56 @@ People:
 - [Linda Xie](https://medium.com/@linda.xie) - Co Founder at ScalarCapital, Ex Product Manager at Coinbase and Advisor  at 0xProject.
 
 # Trading
-Exchanges
-Coinbase 
-Binance
-Bittrex
-GDAX 
-Poloneix
-Kraken
-Bitfinex
-Cryptopia
-EtherDelta
-BTCMarkets
-Indepenent Reserve
+Exchanges:
+
+- [Coinbase](https://www.coinbase.com)
+- [Binance](https://www.binance.com/) 
+- [Bittrex](https://bittrex.com/)
+- [GDAX](https://www.gdax.com/) 
+- [Poloneix](https://poloniex.com/)
+- [Kraken](https://www.kraken.com/)
+- [Bitfinex](https://www.bitfinex.com/)
+- [Cryptopia](https://www.cryptopia.co.nz/)
+- [EtherDelta](https://etherdelta.com/)
+- [BTCMarkets](https://www.btcmarkets.net/)
+- [Independent Reserve](https://www.independentreserve.com/) 
+
+- Simple Guide on how to get started trading cryptocurrencies in Australia 
+
+Cold / Hot Wallets:
+- [MyEtherWallet](https://www.myetherwallet.com/)
+- [MyCryptoWallet](https://mycrypto.com/)
 
 Hardware Wallets
-Trezor - Bulletproof Cryptocurrency Hardware Wallet  
-Ledger Wallet - Smart security Hardware Wallet for your cryptocurrencies
+- [Trezor](https://trezor.io/) - Bulletproof Cryptocurrency Hardware Wallet  
+- [Ledger Wallet](https://www.ledgerwallet.com/) - Smart security Hardware Wallet for your cryptocurrencies
 
 Portfolio apps
-Blockfolio - Popular Bitcoin and altcoin portfolio manager
-Delta - Another popular Bitcoin and altcoin portfolio manager
-CoinTracker - Personal Crypto portfolio & tax manager
-Altpocket - Tool to track your cryptocurrency investments
+Use these applications to track your cryptocurrency assets
+- [Blockfolio](https://www.blockfolio.com/) - Popular Bitcoin and altcoin portfolio manager
+- [Delta](https://getdelta.io/) - Another popular Bitcoin and altcoin portfolio manager
+- [CoinTracker](https://www.cointracker.io/) - Personal Crypto portfolio & tax manager
+- [Altpocket](https://altpocket.io/) - Tool to track your cryptocurrency investments
 
 # Tech / Development
-CryptoZombies - Learn to code Ethereum DApps by building your own games
-How to code your own cryptokitties-style game on Ethereum - Who doesn't like kitties!
-Official Solidity documentation 
-CoinMarketCap API - API document to Coin Market Cap’ platform
+Getting Started: 
+- [CryptoZombie](https://cryptozombies.io/) - Learn to code Ethereum DApps by building your own games
+- [How to code your own cryptokitties-style game on Ethereum](https://medium.com/loom-network/how-to-code-your-own-cryptokitties-style-game-on-ethereum-7c8ac86a4eb3) - Who doesn't like kitties!
+- [Official Solidity documentation](https://solidity.readthedocs.io/en/develop/)
+
+APIs:
+- [CoinMarketCap API](https://coinmarketcap.com/api/) - API document to Coin Market Cap’ platform
  
 # Token Sales / ICO 
-What is an ICO - A quick intro to what an Initial Coin Offering is.
-ICO Basics - More in depth guide to understand the mechanics of an ICO 
-Cryptoasset Valuations - An amazing deep dive understanding on how Cryptoassets are valued
-The Rise of Token Sales - In depth journey analysis of how Token Sales have developed.
+- [What is an ICO](https://steemit.com/ico/@ico-reviews/what-is-an-ico) - A quick intro to what an Initial Coin Offering is.
+- [ICO Basics](https://blockgeeks.com/guides/ico-basics/) - More in depth guide to understand the mechanics of an ICO 
+- [Cryptoasset Valuations](https://medium.com/@cburniske/cryptoasset-valuations-ac83479ffca7) - An amazing deep dive understanding on how Cryptoassets are valued
+- [The Rise of Token Sales](https://blog.openocean.vc/the-rise-of-the-token-sale-28f2d07651c9) - In depth journey analysis of how Token Sales have developed.
+- [Messari](https://messari.io/) - Provides curated content, advanced token analytics, and in-depth research for crypto's pioneers
 
 # Useful tools
-QR Code Generator — With this free tool you can instantly generate QR code for your Bitcoin/Litecoin/Ethereum/Dogecoin address.
-Block Explorer — Discover the Bitcoin blockchain blocks online. Includes fees and miners information.
-EtherScan — Block Explorer and Analytics Platform for Ethereum.
-CoinMarketCap - The one stop platform where all cryptocurrency trading prices are aggregated.
-OnChainFX - Similar to CoinMarketCap, platform for all pricing and volume data for cryptocurrencies
+- [QR Code Generator](https://cwaqrgen.com/) — With this free tool you can instantly generate QR code for your Bitcoin/Litecoin/Ethereum/Dogecoin address.
+- [Block Explorer](https://blockchain.info/) — Discover the Bitcoin blockchain blocks online. Includes fees and miners information.
+- [EtherScan](https://etherscan.io/) — Block Explorer and Analytics Platform for Ethereum.
+- [CoinMarketCap](https://coinmarketcap.com/) - The one stop platform where all cryptocurrency trading prices are aggregated.
+- [OnChainFX](https://onchainfx.com/) - Similar to CoinMarketCap, platform for all pricing and volume data for cryptocurrencies
