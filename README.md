@@ -60,8 +60,8 @@ People:
 
 # Workshops 
 - [Blockchain at Berkley](https://blockchain.berkeley.edu/workshops/) - Compilation of Workshops presented at Berkley
-- [bitfwd workshops] - Covers Introduction to Bitcoin / Ethereum / Crypto Valuations / IPFS / Privacy Coins 
-- [BokkyPooBah's Ethereum Workshop wiki] - Ethereum workshop wiki that covers all things about using and building on the decentralised Ethereum world computer.
+- [bitfwd workshops](https://github.com/bitfwdcommunity/Tech-Workshops) - Covers Introduction to Bitcoin / Ethereum / Crypto Valuations / IPFS / Privacy Coins 
+- [BokkyPooBah's Ethereum Workshop wiki]9https://github.com/bokkypoobah/BokkyPooBahsEthereumWorkshop/wiki) - Ethereum workshop wiki that covers all things about using and building on the decentralised Ethereum world computer.
 
 # Trading 
 Exchanges:
