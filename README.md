@@ -6,8 +6,6 @@ This is an open-source community initiative to get educational resources for peo
 
 We wanted to provide a single README file with as much support material as possible. 
 
-Thank you to the contributors: XXX
-
 # Getting Started
 
 What will be covered in this document:
