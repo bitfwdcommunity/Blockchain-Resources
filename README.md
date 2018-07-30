@@ -15,9 +15,9 @@ What will be covered in this document:
 - Development
 - Useful tools 
 
-Warning: Once you go down the Blockchain rabbit hole, you will never go back
+Warning: Once you go down the Blockchain rabbit hole, you will never go back 😎
 
-# Beginners Guide
+# Beginners Guide 
 Everything you need to read / watch to get started to understand blockchain and cryptocurrencies. 
 - [How does a blockchain work](https://www.youtube.com/watch?v=SSo_EIwHSd4) - Simply Explained - A quick Youtube video to explain the concepts of a blockchain 
 - [Explain Bitcoin like I’m Five](https://medium.freecodecamp.org/explain-bitcoin-like-im-five-73b4257ac833?source=search_post---------5&gi=bd24c3d5a9b3) - A great medium post explaining how Bitcoin operates in a simple and digestible fashion
@@ -26,7 +26,7 @@ Everything you need to read / watch to get started to understand blockchain and 
 - [Banking on Bitcoin](https://www.netflix.com/title/80154500) is a great documentary starter as well! 
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) - The genesis of what started the whole crypto revolution. A must read to understand Satoshi Nakamoto’s vision.
 
-# Media
+# Media 
 Useful websites:
 - [Coindesk](https://www.coindesk.com/) - Leading news site all things bitcoin and cryptocurrencies. Founded in 2013.
 - [CoinTelegraph](https://cointelegraph.com/) - Another popular news outlook for all things crypto. Founded in 2013.
@@ -58,13 +58,12 @@ People:
 - [Linda Xie](https://medium.com/@linda.xie) - Co Founder at ScalarCapital, Ex Product Manager at Coinbase and Advisor  at 0xProject.
 - [Twitter list of Crypto people to follow](https://docs.google.com/document/d/1Zi4ir7bt0v3bGN3QaRJhzjfkaSDwOR9yeIWyIMO8HeA/edit#) (Courtesy of Blockchain at Berkley)
 
-
-# Workshops
+# Workshops 
 - [Blockchain at Berkley](https://blockchain.berkeley.edu/workshops/) - Compilation of Workshops presented at Berkley
 - [bitfwd workshops] - Covers Introduction to Bitcoin / Ethereum / Crypto Valuations / IPFS / Privacy Coins 
 - [BokkyPooBah's Ethereum Workshop wiki] - Ethereum workshop wiki that covers all things about using and building on the decentralised Ethereum world computer.
 
-# Trading
+# Trading 
 Exchanges:
 
 - [Coinbase](https://www.coinbase.com)
@@ -96,7 +95,7 @@ Use these applications to track your cryptocurrency assets
 - [CoinTracker](https://www.cointracker.io/) - Personal Crypto portfolio & tax manager
 - [Altpocket](https://altpocket.io/) - Tool to track your cryptocurrency investments
 
-# Tech / Development
+# Tech / Development 
 Getting Started: 
 - [CryptoZombie](https://cryptozombies.io/) - Learn to code Ethereum DApps by building your own games
 - [How to code your own cryptokitties-style game on Ethereum](https://medium.com/loom-network/how-to-code-your-own-cryptokitties-style-game-on-ethereum-7c8ac86a4eb3) - Who doesn't like kitties!
@@ -112,7 +111,7 @@ APIs:
 - [The Rise of Token Sales](https://blog.openocean.vc/the-rise-of-the-token-sale-28f2d07651c9) - In depth journey analysis of how Token Sales have developed.
 - [Messari](https://messari.io/) - Provides curated content, advanced token analytics, and in-depth research for crypto's pioneers
 
-# Useful tools
+# Useful tools 
 - [QR Code Generator](https://cwaqrgen.com/) — With this free tool you can instantly generate QR code for your Bitcoin/Litecoin/Ethereum/Dogecoin address.
 - [Block Explorer](https://blockchain.info/) — Discover the Bitcoin blockchain blocks online. Includes fees and miners information.
 - [EtherScan](https://etherscan.io/) — Block Explorer and Analytics Platform for Ethereum.
