@@ -56,6 +56,13 @@ Podcasts
 People:
 - [Tuur Demeester](https://medium.com/@tuurdemeester) - Economist & investor, Editor in Chief at Adamant Research
 - [Linda Xie](https://medium.com/@linda.xie) - Co Founder at ScalarCapital, Ex Product Manager at Coinbase and Advisor  at 0xProject.
+- [Twitter list of Crypto people to follow](https://docs.google.com/document/d/1Zi4ir7bt0v3bGN3QaRJhzjfkaSDwOR9yeIWyIMO8HeA/edit#) (Courtesy of Blockchain at Berkley)
+
+
+# Workshops
+- [Blockchain at Berkley](https://blockchain.berkeley.edu/workshops/) - Compilation of Workshops presented at Berkley
+- [bitfwd workshops] - Covers Introduction to Bitcoin / Ethereum / Crypto Valuations / IPFS / Privacy Coins 
+- [BokkyPooBah's Ethereum Workshop wiki] - Ethereum workshop wiki that covers all things about using and building on the decentralised Ethereum world computer.
 
 # Trading
 Exchanges:
