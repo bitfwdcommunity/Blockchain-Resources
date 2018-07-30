@@ -78,8 +78,6 @@ Exchanges:
 - [BTCMarkets](https://www.btcmarkets.net/)
 - [Independent Reserve](https://www.independentreserve.com/) 
 
-- Simple Guide on how to get started trading cryptocurrencies in Australia 
-
 Cold / Hot Wallets:
 - [MyEtherWallet](https://www.myetherwallet.com/)
 - [MyCryptoWallet](https://mycrypto.com/)
