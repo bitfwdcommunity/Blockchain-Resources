@@ -1,6 +1,6 @@
 # Blockchain Community Resources
 
-<a href="http://bitfwd.com/" target="_blank"><img src="https://user-images.githubusercontent.com/16810128/43382069-03a3f07a-941a-11e8-9c30-c02867864543.png"  width="200" style="padding: 15px; width: 250px; float: right; padding-right: 100px;" align="right" /></a>
+<img src="https://user-images.githubusercontent.com/16810128/43382069-03a3f07a-941a-11e8-9c30-c02867864543.png" " align="centre" /></a>
 
 This is an open-source community initiative to get educational resources for people looking to learn and advance their Blockchain matrix skills. 
 
