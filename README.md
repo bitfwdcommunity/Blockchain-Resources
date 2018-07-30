@@ -1,6 +1,6 @@
 # Blockchain Community Resources
 
-<img src="https://user-images.githubusercontent.com/16810128/43382069-03a3f07a-941a-11e8-9c30-c02867864543.png" " align="centre" /></a>
+<img src="https://user-images.githubusercontent.com/16810128/43382069-03a3f07a-941a-11e8-9c30-c02867864543.png">
 
 This is an open-source community initiative to get educational resources for people looking to learn and advance their Blockchain matrix skills. 
 
